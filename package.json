@@ -15,7 +15,7 @@
     "node": ">= 10.6.0"
   },
   "scripts": {
-    "install": "node ./scripts/install.js && nw-gyp rebuild",
+    "install": "node ./scripts/install.js && nw-gyp rebuild --target=0.42.3 --arch=x64 --verbose",
     "clean": "node ./scripts/clean.js",
     "build": "npm i && cd ./examples/electron && npm start",
     "start": "cd ./examples/electron && npm start",
