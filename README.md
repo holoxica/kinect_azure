@@ -1,6 +1,6 @@
 # Azure Kinect Library for Node / Electron
 
-Modified by Christopher Blackwell to work with NW.js on Windows, using [nw-gyp](https://github.com/nwjs/nw-gyp).
+Built by Christopher Blackwell at Holoxica Limited for NWJS 0.45.0
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NUZP3U3QZEQV2&currency_code=EUR&source=url)
 
